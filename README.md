@@ -64,7 +64,9 @@ The system is designed with a modern, demo-friendly architecture that works out 
 
 ## Project Structure
 
-```
+## Project Structure
+
+```text
 mediverify-ai/
 ├── backend/
 │   ├── app/
@@ -92,9 +94,6 @@ mediverify-ai/
 │   ├── hardhat.config.js
 │   └── package.json
 └── .gitignore
-```
-..
----
 
 ## Getting Started
 
