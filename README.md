@@ -93,7 +93,7 @@ mediverify-ai/
 │   └── package.json
 └── .gitignore
 ```
-
+..
 ---
 
 ## Getting Started
