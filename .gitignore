@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node and frontend build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Hardhat generated files
+blockchain/artifacts/
+blockchain/cache/
+
+# Local tooling
+.vscode/
+.idea/
+*.log
+Thumbs.db
+Desktop.ini
