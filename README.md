@@ -1,17 +1,3 @@
-  Your `README.md` is currently **empty** (0 lines). You need to paste the full content into it.
-
-### Quick fix:
-
-1. On that GitHub page, click the **pencil icon** (Edit this file) on the right side.
-2. **Delete** whatever is there (it’s empty).
-3. **Paste** the entire content from the file I created for you.
-4. Scroll down → click **Commit changes**.
-
-Here’s the complete content again so you can copy-paste it easily:
-
----
-
-```markdown
 # MediVerify AI
 
 **AI-powered medical insurance claim verification with blockchain settlement**
