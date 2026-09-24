@@ -228,4 +228,3 @@ GitHub: [AbhayTiwari111](https://github.com/AbhayTiwari111)
 ---
 
 > Built to make medical claim verification faster, fairer, and more transparent.
-```
